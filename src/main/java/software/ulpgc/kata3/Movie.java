@@ -1,0 +1,4 @@
+package main.java.software.ulpgc.kata3;
+
+public record Movie(String title, int year, int duration) {
+}
